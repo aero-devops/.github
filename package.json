@@ -1,0 +1,13 @@
+{
+  "name": "aero-organization-art",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "export": "node scripts/export.mjs"
+  },
+  "devDependencies": {
+    "fontkitten": "^1.0.3",
+    "sharp": "^0.35.4"
+  }
+}
